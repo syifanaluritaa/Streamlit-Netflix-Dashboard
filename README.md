@@ -25,14 +25,14 @@ Sebuah aplikasi **Dashboard Interaktif** berbasis web yang dibangun menggunakan 
 
 ### Mode Gelap (Dark Mode - Default)
 <p align="center">
-  <img src="Images/Mode gelap.png" alt="Dashboard Dark Mode" width="100%" style="border-radius: 8px; border: 1px solid #334155;">
+  <img src="Images/Netflix_Dark.png" alt="Dashboard Dark Mode" width="100%" style="border-radius: 8px; border: 1px solid #334155;">
   <br>
   <em>Gambar 2.1: Tampilan Utama Dashboard Pusat Kendali dalam Skema Mode Gelap.</em>
 </p>
 
 ### Mode Terang (Light Mode)
 <p align="center">
-  <img src="Images/Mode terang.png" alt="Dashboard Light Mode" width="100%" style="border-radius: 8px; border: 1px solid #cbd5e1;">
+  <img src="Images/Netflix_Light.png" alt="Dashboard Light Mode" width="100%" style="border-radius: 8px; border: 1px solid #cbd5e1;">
   <br>
   <em>Gambar 2.2: Transisi Skema Warna ke Mode Terang untuk Kebutuhan Presentasi Formal.</em>
 </p>
