@@ -37,7 +37,7 @@ Sebuah aplikasi **Dashboard Interaktif** berbasis web yang dibangun menggunakan 
   <em>Gambar 2.2: Transisi Skema Warna ke Mode Terang untuk Kebutuhan Presentasi Formal.</em>
 </p>
 
---
+---
 
 ## 📊 Detail Dataset
 
